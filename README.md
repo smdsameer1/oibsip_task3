@@ -2,7 +2,7 @@
 
 Hello connections,
 
-I am excited to share that I have successfully completed Task 3 as a Web Development Intern at Oasis Infobyte of the October 2022 batch. In this task, I created a Temperature Converter website using HTML, CSS, and JavaScript.
+I am excited to share that I have successfully completed Task 3 as a Web Development Intern at Oasis Infobyte of the July P2 batch 2023. In this task, I created a Temperature Converter website using HTML, CSS, and JavaScript.
 
 # Project Details
 1. Task: Temperature Converter Website
