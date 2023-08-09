@@ -5,8 +5,8 @@ Hello connections,
 I am excited to share that I have successfully completed Task 3 as a Web Development Intern at Oasis Infobyte of the October 2022 batch. In this task, I created a Temperature Converter website using HTML, CSS, and JavaScript.
 
 # Project Details
-Task: Temperature Converter Website
-IDE: Visual Studio Code
+1. Task: Temperature Converter Website
+2. IDE: Visual Studio Code
 
 # Repository Contents
 This repository contains the following files:
