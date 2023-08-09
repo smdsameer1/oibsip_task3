@@ -11,6 +11,6 @@ I am excited to share that I have successfully completed Task 3 as a Web Develop
 # Repository Contents
 This repository contains the following files:
 
-index.html: The main HTML file that represents the structure of the temperature converter website.
-styles.css: The CSS file that applies styling to the HTML elements.
-script.js: The JavaScript file that adds interactivity and functionality to the temperature converter.
+1. index.html: The main HTML file that represents the structure of the temperature converter website.
+2. styles.css: The CSS file that applies styling to the HTML elements.
+3. script.js: The JavaScript file that adds interactivity and functionality to the temperature converter.
